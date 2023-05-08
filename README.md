@@ -14,3 +14,6 @@ The content has three sections:
 2. Open graph view (`Ctrl + G` on Windows, `Command + G` on Mac) to see the connection between words. 
 3. To investigate detailed information of a word, click on the node.
 
+## Tools used
+
+The files are generated using Python script. Web scraping is done by using the package BeautifulSoup. 
