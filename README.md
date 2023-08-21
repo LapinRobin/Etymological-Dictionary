@@ -14,6 +14,10 @@ The content has three sections:
 2. Open graph view (`Ctrl + G` on Windows, `Command + G` on Mac) to see the connection between words. 
 3. To investigate detailed information of a word, click on the node.
 
+## Disclaimer
+
+You might experience some lag in graph view or when loading nodes. This is due to the large number of nodes and edges in the graph. Alternatively, you can use the `etymological-dictionary-magoosh-1000.zip` file, which contains high frequency GRE words.
+
 ## Tools used
 
 The files are generated using Python script. Web scraping was done by using the package BeautifulSoup. 
