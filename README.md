@@ -16,4 +16,4 @@ The content has three sections:
 
 ## Tools used
 
-The files are generated using Python script. Web scraping is done by using the package BeautifulSoup. 
+The files are generated using Python script. Web scraping was done by using the package BeautifulSoup. 
